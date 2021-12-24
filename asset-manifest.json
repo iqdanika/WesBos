@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WesBos/static/css/main.273484fe.css",
+    "main.js": "/WesBos/static/js/main.0a224c94.js",
+    "static/js/787.cfd8f164.chunk.js": "/WesBos/static/js/787.cfd8f164.chunk.js",
+    "index.html": "/WesBos/index.html",
+    "main.273484fe.css.map": "/WesBos/static/css/main.273484fe.css.map",
+    "main.0a224c94.js.map": "/WesBos/static/js/main.0a224c94.js.map",
+    "787.cfd8f164.chunk.js.map": "/WesBos/static/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.273484fe.css",
+    "static/js/main.0a224c94.js"
+  ]
+}
