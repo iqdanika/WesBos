@@ -6,6 +6,7 @@ const Header = props => (
         <span className="ofThe">
             <span className="of">Of</span>
             <span className="the">The</span>
+            <p>just some changes</p>
         </span>
         Day
         </h1>
